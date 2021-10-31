@@ -16,9 +16,9 @@ V59etrLg
 
 # Generate complex password
 ```
-python passgen.py complex
+python passgen.py complex --length 16
 
-Wii572lg9Q
+g.bPp96c9O{R&n&h
 ```
 
 # Generate a hard-to-guess security token
