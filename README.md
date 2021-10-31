@@ -1,4 +1,4 @@
-# Example of using Click for building command line interfaces on python
+# Example of using Click for building command line interfaces
 
 # Install
 ```
